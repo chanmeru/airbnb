@@ -1015,6 +1015,14 @@ hr{
 }
  
 }
+@media(max-width:480px){
+   .header-title{
+       font-size:30px;
+       left: 3%;
+       top: 58%;
+       width: 96%;
+   }
+}
 
 
 
